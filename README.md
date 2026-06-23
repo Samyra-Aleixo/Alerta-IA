@@ -30,4 +30,6 @@ O Alerta IA utiliza Inteligência Artificial para analisar imagens captadas por 
 - Flávia
 
 ## 🎯 Projeto Final
+
+https://teachablemachine.withgoogle.com/models/SPdwsloBq/
 Projeto desenvolvido como atividade final do curso, utilizando Inteligência Artificial para auxiliar na identificação de situações de emergência e aumentar a segurança das pessoas.
